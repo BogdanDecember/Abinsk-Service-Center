@@ -1,3 +1,1 @@
-# UsualThings
-My First projects will appear here soon.
-lol
+#My first landing page here
